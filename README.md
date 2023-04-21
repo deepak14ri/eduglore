@@ -1,6 +1,5 @@
 # Eduglore - Ready To Help
-The <a href="https://deepak14ri.github.io/eduglore/">eduGlore</a> is a pioneer institute in the field of English language training for fluent communication to crack various interview exams and also provide training for basic to advance grammar for Govt. 
-
+The <a href="https://deepak14ri.github.io/eduglore/">eduGlore</a> is a pioneer institute in the field of English language training for fluent communication to crack various interview exams and also provide training for basic to advance grammar for Govt. Exams like NDA, RRB Group D, RRB NTPC, SSC Multi Tasking Staff, SSC CGL or CHSL, IBPS Clerk Exam, Central Teachers Eligibility Test (CTET), IELTS, GRE, and many more.
 # Leave a note for queries:
  <strong>Email ID:</strong> deepak14ri@outlook.com <br>
  <strong>HackerRank Profile: </strong>https://www.hackerrank.com/deepakchaudhari02<br>
