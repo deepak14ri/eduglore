@@ -3,7 +3,7 @@ The eduGlore is a pioneer institute in the field of English language training fo
 
 # Leave a note for queries:
  <strong>Email ID:</strong> deepak14ri@outlook.com <br>
- <strong>HackerRank Profile: </strong>https://www.hackerrank.com/deepakchaudhari02
+ <strong>HackerRank Profile: </strong>https://www.hackerrank.com/deepakchaudhari02<br>
  <strong>Techgig Profile: </strong>https://www.techgig.com/deepakchaudhari16
 
 # Home Page (Navigation Page)
