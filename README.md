@@ -1,5 +1,5 @@
 # Eduglore - Ready To Help
-The eduGlore is a pioneer institute in the field of English language training for fluent communication to crack various interview exams and also provide training for basic to advance grammar for Govt. 
+The <a href="https://deepak14ri.github.io/eduglore/">eduGlore</a> is a pioneer institute in the field of English language training for fluent communication to crack various interview exams and also provide training for basic to advance grammar for Govt. 
 
 # Leave a note for queries:
  <strong>Email ID:</strong> deepak14ri@outlook.com <br>
